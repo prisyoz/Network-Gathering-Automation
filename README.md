@@ -1,1 +1,2 @@
 # Network-Gathering-Automation
+This project automates the execution of Bash scripts on a remote server to collect data, including the usage of establishing a remote SSH connection to retrieve server details and execute commands anonymously and saving gathered data into local files. Additionally, I analysed the purpose, mechanisms, and impact of using the insecure FTP protocol and provided recommendations for secure alternatives in the report, “Project Network Remote Control”.
